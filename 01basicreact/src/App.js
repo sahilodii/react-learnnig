@@ -1,8 +1,8 @@
-
+import Lala from "./jhonny";
 
 function App() {
   return (
-   <h1>  basic-react </h1>
+  <Lala />
   );
 }
 
